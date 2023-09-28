@@ -1,4 +1,4 @@
-const URL = "http:/localhost:5000/tasks";
+const URL = "https://task-list-frontend-651o.onrender.com/tasks";
 
 export const createTask = async(data) => {
     try {
